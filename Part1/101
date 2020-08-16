@@ -1,5 +1,3 @@
-## 1.1
-
 CONTAINER ID        IMAGE               COMMAND                  CREATED              STATUS                     PORTS               NAMES
 de49d3b6d462        nginx               "/docker-entrypoint.…"   About a minute ago   Up About a minute          80/tcp              sleepy_zhukovsky
 03107607f90d        nginx               "/docker-entrypoint.…"   About a minute ago   Up About a minute          80/tcp              determined_franklin
